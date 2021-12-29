@@ -11,8 +11,7 @@ console.log ("Contraseña: " + contraseñaIngresada);
 do {
     let option = showMenu ();
     let quantity = parseInt (prompt ("Indique cantidad"));
-        // addToCart (option, quantity);
-        resp = prompt ("¿Desea seguir comprando? S/N");
+    resp = prompt ("¿Desea seguir comprando? S/N");
 } while (resp === "S"); 
 
 
