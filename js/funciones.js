@@ -1,4 +1,4 @@
-const showMenu = () => {
-    let menu = prompt (`Elija la máquina a comprar:
-${maquinas.join ("\n")}`)
-}
+// const showMenu = () => {
+//     let menu = prompt (`Elija la máquina a comprar:
+// ${maquinas.join ("\n")}`)
+// }
