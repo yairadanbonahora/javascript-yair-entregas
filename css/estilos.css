@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.filtros {
+    color: white;
+    margin: 15px;
+}
+
+.elemento {
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid;
+}
+
+.opciones {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid; 
+}
+
+.inputCantidad {
+    margin: 10px;
+    font-size: 15px;
+    border: 1px solid;
+} 
